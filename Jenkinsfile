@@ -1,7 +1,7 @@
 pipeline {
     agent any
   environment{
-    AWS_DEFAULT_REGION= 'Asia Pacific (Mumbai) ap-south-1'
+    AWS_DEFAULT_REGION=  'ap-south-1'
 
   AWS_ACCESS_KEY_ID= 'AKIAS4H3K6VC6G4EYL4G'
 
