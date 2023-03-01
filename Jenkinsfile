@@ -6,6 +6,7 @@ pipeline {
   AWS_ACCESS_KEY_ID= "AKIAS4H3K6VC6G4EYL4G"
 
    AWS_SECRET_ACCESS_KEY="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"
+  }
     
   
     stages {
